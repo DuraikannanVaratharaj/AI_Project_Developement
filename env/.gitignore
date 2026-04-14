@@ -1,0 +1,4 @@
+*
+!.gitignore
+!word2vec_customModel/
+!word2vec_customModel/**
